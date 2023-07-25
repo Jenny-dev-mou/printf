@@ -186,4 +186,4 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
-/* Collaborators: Jennifer mourice & Andrew Okoeguale
+/* Collaborators: Jennifer mourice & Andrew Okoeguale */
